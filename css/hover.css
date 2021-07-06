@@ -1,0 +1,20 @@
+h1:hover {
+    color: #02DDC4;
+}
+
+input[type='text']:hover, 
+input[type='email']:hover, 
+input[type='password']:hover {
+    background-color: #02DDC4;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #8B6DD3;
+    color: #02DDC4;
+    font-weight: bold;
+    
+}
+
+
+
